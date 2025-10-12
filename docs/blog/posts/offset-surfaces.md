@@ -152,3 +152,5 @@ S.-J. Kim, D.-Y. Lee, and M.-Y. Yang, “Offset Triangular Mesh Using the Multip
 The algorithm for handling self-intersections comes from Jung et al, also at the Korea Advanced Institute of Science and Technology. [[pdf]](https://www.cad-journal.net/files/vol_1/CAD_1(1-4)_2004_477-484.pdf)<br>
 W. Jung, H. Shin, and B. K. Choi, “Self-intersection Removal in Triangular Mesh Offsetting,” _Computer-Aided Design and Applications_, vol. 1, no. 1–4, pp. 477–484, Jan. 2004, doi: 10.1080/16864360.2004.10738290.
 [^4]: I already use constrained Delaunay triangulation in Cosmos to generate the triangles that connect keys to each other & form the web mesh, so it's great I get to use this algorithm more.
+
+<!-- Auto-update: 2025-10-12T19:46:47.077061 -->
